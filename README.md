@@ -1,4 +1,4 @@
-#  📱 Clinestetica Backend
+#  📱 Clinestetica Movil
 
 Aplicación móvil multiplataforma desarrollada en Flutter, conectada al ecosistema de Clinestetica Web, que facilita la gestión integral de citas, procedimientos y pacientes en clínicas estéticas.
 
