@@ -1,0 +1,10 @@
+.dia-domingo {
+  background-color: #82877c;
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.slot-domingo {
+  background-color: #71736b;
+  cursor: not-allowed;
+}

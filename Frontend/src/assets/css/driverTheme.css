@@ -1,0 +1,45 @@
+.driver-popover.driverjs-theme {
+  background-color: #b8f3dc;
+  color: #000;
+  border-radius: 10px;
+  border: 2px solid #00a884;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+  font-family: "Poppins", sans-serif;
+}
+
+.driver-popover.driverjs-theme .driver-popover-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #003d33;
+}
+
+.driver-popover.driverjs-theme .driver-popover-description {
+  color: #111;
+  font-size: 15px;
+}
+
+.driver-popover.driverjs-theme button {
+  background-color: #00a884;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 12px;
+  font-weight: 600;
+}
+
+.driver-popover.driverjs-theme button:hover {
+  background-color: #007f67;
+}
+
+.driver-popover.driverjs-theme .driver-popover-close-btn {
+  color: #444;
+}
+
+.driver-popover.driverjs-theme .driver-popover-arrow {
+  border-color: #b8f3dc;
+}
+
+.driver-popover.driverjs-theme .driver-popover-navigation-btns {
+  justify-content: space-between;
+  gap: 8px;
+}

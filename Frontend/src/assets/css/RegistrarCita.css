@@ -1,0 +1,19 @@
+/* Colorea domingos en vista MES y SEMANA */
+.rbc-month-view .rbc-day-bg.dia-domingo,
+.rbc-time-view .rbc-day-slot.dia-domingo {
+  background-color: #82877c;
+  opacity: 0.6;
+}
+
+/* Colorea los slots horarios del domingo en vistas con horas */
+.rbc-time-slot.slot-domingo {
+  background-color: #71736b;
+  opacity: 0.6;
+}
+
+/* indicar visualmente que no es seleccionable */
+.rbc-month-view .rbc-day-bg.dia-domingo,
+.rbc-time-view .rbc-day-slot.dia-domingo,
+.rbc-time-slot.slot-domingo {
+  cursor: not-allowed;
+}

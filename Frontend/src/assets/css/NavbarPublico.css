@@ -1,0 +1,15 @@
+.cart-link {
+  height: 38px; 
+  padding: 0 12px;
+  border-radius: 0.375rem;
+  font-weight: 500;
+}
+
+.cart-badge {
+  font-size: 0.7rem;
+  transform: translate(-50%, 25%);
+}
+
+.c-navbar {
+  height: 64px;
+}
